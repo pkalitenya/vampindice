@@ -1,0 +1,2 @@
+# vampindice
+VampIndice minecraft ResourcePack
